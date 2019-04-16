@@ -1,3 +1,3 @@
 # UI-Showcase
 
-![Screen](screenshot.png?raw=true "Screen")
+![Screen](Screenshot.png?raw=true "Screen")
